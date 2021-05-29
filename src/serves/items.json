@@ -1,0 +1,47 @@
+[
+    {
+        "id": 100,
+        "title": "Kingsglaive",
+        "back": "./imgs/Kingsglaive_Final_Fantasy_XV.jpg",
+        "description": "King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal.",
+        "year": 2016,
+        "poster": "./imgs/Kingsglaive_Final_Fantasy_XV1.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 200,
+        "title": "Final Fantasy",
+        "back": "./imgs/Final_Fantasy_Spirits_Within.jpg",
+        "description": "A scientist makes a last stand on Earth with the help of a ragtag team of soldiers against an invasion of alien phantoms.",
+        "year": 2001,
+        "poster": "./imgs/Final_Fantasy_Spirits_Within1.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 300,
+        "title": "Ghost In The Shell",
+        "back": "./imgs/Ghost_In_The_Shell_2_0.jpg",
+        "description": "A hacker known as the Puppet Master is hunted by a female cyborg cop and her partner. This film is a revised version of Ghost in the Shell (1995).",
+        "year": 2008,
+        "poster": "./imgs/Ghost_In_The_Shell_2_01.jpg",
+        "rating": 5
+    },
+    {
+        "id": 400,
+        "title": "Appleseed Alpha",
+        "back": "./imgs/Appleseed_Alpha.jpg",
+        "description": "A young female soldier Deunan and her cyborg partner Briareos survive through the post World War 3 apocalyptic New York in search of human's future hope, the legendary city of Olympus.",
+        "year": 2014,
+        "poster": "./imgs/Appleseed_Alpha1.jpg",
+        "rating": 3.8
+    },
+    {
+        "id": 500,
+        "title": "Resident Evil",
+        "back": "./imgs/Resident_Evil_Vendetta.jpg",
+        "description": "Chris Redfield enlists the help of Leon S. Kennedy and Rebecca Chambers to stop a death merchant, with a vengeance, from spreading a deadly virus in New York.",
+        "year": 2014,
+        "poster": "./imgs/Resident_Evil_Vendetta1.jpg",
+        "rating": 4.2
+    }
+]
